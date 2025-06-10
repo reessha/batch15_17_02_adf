@@ -1,0 +1,9 @@
+{
+	"name": "reesha",
+	"location": "westus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3e11fa99-da7d-482a-b0db-ec8e1e9a7680",
+		"tenantId": "4ca55419-75c6-423c-8003-c62d24fa7e00"
+	}
+}
